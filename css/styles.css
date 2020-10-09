@@ -139,16 +139,6 @@ nav {
     text-align: center;
 }
 
-.blogs__button {
-    width: 40%;
-    border: 1px solid #29f49a;
-    border-radius: 5px;
-    padding: 10px 15px;
-    text-align: center;
-    text-decoration: none;
-    color: #ffffff;
-}
-
 .blogs__post--container .post__container {
     display: inline-block;
     padding-left: 10px;
