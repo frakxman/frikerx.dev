@@ -2,8 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Muli', sans-serif;
-    font-style: italic;
 }
 
 body {
@@ -18,9 +16,6 @@ body {
     position: relative;
     width: 400px;
     height: 400px;
-    background: #111111;
-    color: #ffffff;
-    line-height: 350px;
 }
 
 .shadow::before, .shadow::after {
