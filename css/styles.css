@@ -228,52 +228,52 @@ nav {
 /* ************************* contact  */
 
 input {
-  font-family: 'Muli', sans-serif;
-  font-style: italic;
+    font-family: 'Muli', sans-serif;
+    font-style: italic;
 }
 
 input[type=text], [type=email], [type=tel], textarea {
-  background-color: #000;
-  box-sizing: border-box;
-  color: #FFF;
-  width: 100%;
-  padding: 12px;
-  border: 1px solid #444444;
-  border-radius: 4px;
-  resize: vertical;
+    background-color: #000;
+    box-sizing: border-box;
+    color: #FFF;
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #444444;
+    border-radius: 4px;
+    resize: vertical;
 }
 
 input[type=submit] {
-  background-color: #7acc2d;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  width: 100%;
+    background-color: #7acc2d;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
 }
 
 input[type=submit]:hover {
-  background-color: #026fff;
+    background-color: #026fff;
 }
 
 .container {
-  box-sizing: border-box;
-  background-color: #000000;
-  padding: 20px;
+    box-sizing: border-box;
+    background-color: #000000;
+    padding: 20px;
 }
 
 .col-75 {
-  width: 70%;
-  margin: 0 auto;
-  margin-top: 5px;
-  text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-align: center;
 }
 
 .p {
-  color: #FFF;
-  padding: 30px;
-  margin-left: 12%;
+    color: #FFF;
+    padding: 30px;
+    margin-left: 12%;
 }
 
 /* ************************* footer*/
