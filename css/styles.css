@@ -85,6 +85,26 @@ nav {
 
 /* ************************* main__blogs ( Main ) */
 
+.html {
+    margin: 10px 0;
+    border: 1px solid #29f49a;
+    border-radius: 5px;
+}
+
+.html h1 {
+    text-align: center;
+}
+
+.js {
+    margin: 10px 0;
+    border: 1px solid #29f49a;
+    border-radius: 5px;
+}
+
+.js h1 {
+    text-align: center;
+}
+
 .blogs__main {
     display: grid;
     margin-top: 10px;
