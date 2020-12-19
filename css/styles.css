@@ -86,9 +86,9 @@ nav {
 /* ************************* main__blogs ( Main ) */
 
 .html {
-    margin: 10px 0;
     border: 1px solid #29f49a;
     border-radius: 5px;
+    padding: 5px;
 }
 
 .html h1 {
@@ -102,6 +102,16 @@ nav {
 }
 
 .js h1 {
+    text-align: center;
+}
+
+.ionic{
+    margin: 10px 0;
+    border: 1px solid #29f49a;
+    border-radius: 5px;
+}
+
+.ionic h1 {
     text-align: center;
 }
 
@@ -161,9 +171,8 @@ nav {
 
 .blogs__post--container .post__container {
     display: inline-block;
-    padding-left: 10px;
+    margin: 10px 0 10px 20px;
     max-width: 30%;
-    margin-bottom: 50px;
 }
 
 .blogs__post--container .post__container p {
